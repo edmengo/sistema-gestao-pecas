@@ -39,12 +39,12 @@ Passo a Passo
    o Siga as instruções na tela para cada operação
    Menu do Sistema
 
-4. Cadastrar nova peça
+4. Cadastrar peça
 5. Listar peças aprovadas
 6. Listar peças reprovadas
 7. Listar caixas fechadas
 8. Remover peça cadastrada
-9. Gerar relatório final
+9. Gerar relatório
 10. Sair
 
 Exemplos de Uso
@@ -126,3 +126,14 @@ Benefícios da Solução
 • Rastreabilidade: Histórico completo de peças e motivos de reprovação
 • Economia: Redução de custos operacionais
 • Análise: Relatórios detalhados para tomada de decisão
+
+Expansões Futuras
+Este protótipo pode ser expandido para:
+
+• Inteligência Artificial: Predição de falhas e otimização de qualidade
+• Banco de Dados: Persistência permanente de informações
+• Interface Gráfica: Visual com gráficos em tempo real
+• API REST: Integração com outros sistemas empresariais (ERP, MES)
+
+link do video:
+https://drive.google.com/file/d/1rce09yKZXigR_dOwcom0GKLRjcZliSWR/view?usp=drive_link
